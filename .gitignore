@@ -10,6 +10,7 @@
 */project/project.target.config-classes
 *-shim.sbt
 *~
+*.log
 .#*
 .*.swp
 .DS_Store
@@ -44,3 +45,4 @@ tm*.log
 tm.out
 worker*.log
 /bin
+.sbtserver
