@@ -45,4 +45,6 @@ tm*.log
 tm.out
 worker*.log
 /bin
-.sbtserver
+*/.sbtserver
+RUNNING_PID
+/journal
